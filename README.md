@@ -1,1 +1,1 @@
-hi mr shelly this is my project speechy i made it for ts class 9999 advanced computer programming. it is made with the python program language and i used everything i learned from grok learning courses to make this. enjoy!!!!!!!
+hi mr shelly this is my project speechy i made it for ts class 9999 advanced computer programming. it is made with the python program language and i used everything i learned from grok learning courses to make this. enjoy!!!!!!!!
