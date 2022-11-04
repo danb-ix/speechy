@@ -1,6 +1,1 @@
-# Speechy
-School project for TS632A
-
-## How to run
-Install the required packages
-Run the index.py
+hi mr shelly this is my project speechy i made it for ts class 9999 advanced computer programming. it is made with the python program language and i used everything i learned from grok learning courses to make this. enjoy!!!!!!!
